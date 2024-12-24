@@ -33,11 +33,11 @@ Here we present more generation results based on **Stable-Video-Diffusion**.
 
 Here we compare our method with SOTA method ControlNeXt in pose and face condition.
 
-<video src=".\assets\Comparison\case1.mp4"></video>
+![case-1](./assets/Comparison/case1.gif)
 
-<video src=".\assets\Comparison\case2.mp4"></video>
+![case-2](./assets/Comparison/case2.gif)
 
-<video src=".\assets\Comparison\case3.mp4"></video>
+![case-3](./assets/Comparison/case3.gif)
 
 ## **Analysis on Failure Cases**
 
